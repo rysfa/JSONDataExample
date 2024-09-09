@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "name": "Dream Machine Pro",
+    "price": "350,00 €",
+    "image": "https://images.svc.ui.com/?u=https%3A%2F%2Fcdn.ecomm.ui.com%2Fproducts%2F9df27ed4-c4ae-471a-8982-f5b0650da76a%2Ffe5c4a84-1ef6-43fe-aaec-5c74245aeedc.png&q=75&w=384",
+    "details": "10G Cloud Gateway with 100+ UniFi device / 1,000+ client support and 3.5 Gbps IPS routing.",
+    "specs": [
+      "Includes full UniFi application suite for device management",
+      "3.5+ Gbps routing with IDS/IPS",
+      "(1) 10G SFP+*, (8) GbE RJ45 LAN ports",
+      "(1) 10G SFP+*, (1) GbE RJ45 WAN ports",
+      "3.5" NVR HDD bay",
+      "UniFi Power Backup ready",
+      "1.3" touchscreen"
+    ],
+    "additionalDetails": "Pair with an official SFP+ Module or SFP+ to RJ45 Adapter for the best experience."
+  },
+  {
+    "id": 2,
+    "name": "Cloud Gateway Max",
+    "price": "443,00 €",
+    "image": "https://images.svc.ui.com/?u=https%3A%2F%2Fcdn.ecomm.ui.com%2Fproducts%2F8a5d9bab-2338-4540-abc7-dd9486b93e07%2F5a0f872a-0ee6-4b26-bc4b-7ac8fef55332.png&q=75&w=128",
+    "details": "Compact 2.5G Cloud Gateway with 30+ UniFi device / 300+ client support, 1.5 Gbps IPS routing, and selectable NVR storage.",
+    "specs": [
+      "Includes full UniFi application suite for device management",
+      "Manages 30+ UniFi devices and 300+ clients",
+      "1.5 Gbps routing with IDS/IPS",
+      "Multi-WAN load balancing",
+      "Selectable NVMe SSD storage up to 2 TB for NVR",
+      "0.96" LCM status display",
+      "USB-C powered (adapter included)"
+    ]
+  }
+]
