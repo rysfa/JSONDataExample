@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Enterprise Fortress Gateway",
     "price": "1.889,00 €",
-    "image": "https://images.svc.ui.com/?u=https%3A%2F%2Fcdn.ecomm.ui.com%2Fproducts%2F65adb8bd-c318-45f9-8b9f-9c15fb025ec2%2Faf861e3e-6af0-462e-a4d2-ba6ed20e251b.png&q=75&w=384",
+    "image": "https://raw.githubusercontent.com/rysfa/JSONDataExample/main/1.png",
     "details": "25G Cloud Gateway with 500+ UniFi device / 5,000+ client support, 12.5 Gbps IPS routing, and complete high availability.",
     "specs": [
       "Runs UniFi Network for full-stack network management",
@@ -21,7 +21,7 @@
     "id": 2,
     "name": "Dream Machine Pro Max",
     "price": "553,00 €",
-    "image": "https://images.svc.ui.com/?u=https%3A%2F%2Fcdn.ecomm.ui.com%2Fproducts%2F401190d7-6a49-4c2e-bef1-7fe087d2b6b6%2F4b982f0e-b292-4724-a388-cc7a18b36448.png&q=75&w=384",
+    "image": "https://raw.githubusercontent.com/rysfa/JSONDataExample/main/2.png",
     "details": "10G Cloud Gateway with 200+ UniFi device / 2,000+ client support, 5 Gbps IPS routing, and redundant NVR storage.",
     "specs": [
       "Enhanced computing power and memory for 2x the UniFi device and client capacity of Dream Machine Pro/SE",
@@ -40,7 +40,7 @@
     "id": 3,
     "name": "Cloud Gateway Max",
     "price": "322,00 €",
-    "image": "https://images.svc.ui.com/?u=https%3A%2F%2Fassets.ecomm.ui.com%2F_next%2Fstatic%2Fmedia%2Fucg-max.f12dfc53.png&q=75&w=384",
+    "image": "https://raw.githubusercontent.com/rysfa/JSONDataExample/main/3.png",
     "details": "Compact 2.5G Cloud Gateway with 30+ UniFi device / 300+ client support, 1.5 Gbps IPS routing, and selectable NVR storage.",
     "specs": [
       "Includes full UniFi application suite for device management",
