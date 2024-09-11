@@ -1,0 +1,18 @@
+{
+  "id": 1,
+  "name": "Enterprise Fortress Gateway",
+  "price": "1.889,00 €",
+  "imageLink": "https://raw.githubusercontent.com/rysfa/JSONDataExample/main/1.png",
+  "details": "25G Cloud Gateway with 500+ UniFi device / 5,000+ client support, 12.5 Gbps IPS routing, and complete high availability.",
+  "specs": [
+    "Runs UniFi Network for full-stack network management",
+    "Shadow Mode High Availability with automatic failover provides uninterrupted connectivity (VRRP)",
+    "12.5 Gbps routing with IDS/IPS",
+    "License-free, real-time inspection of encrypted packets with NeXT AI Inspection (SSL/TLS decryption)",
+    "(2) 25G SFP28**, (2) 10G SFP+**, and (2) 2.5 GbE RJ45 ports (two interfaces remappable to WAN)",
+    "(2) included hot-swap PSUs for power redundancy",
+    "1.3\" touchscreen",
+    "Includes 90 days of Professional Phone Support"
+  ],
+  "additionalDetails": "Requires UniFi OS 4.0 and later. Must be paired with another EFG. Pair with an official SFP28 Module, SFP+ Module, or SFP+ to RJ45 Adapter for the best experience. Available in the United States, Canada, Europe, and the United Kingdom."
+}
