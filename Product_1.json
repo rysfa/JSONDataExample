@@ -2,7 +2,7 @@
   "id": 1,
   "name": "Enterprise Fortress Gateway",
   "price": "1.889,00 €",
-  "imageLink": "https://raw.githubusercontent.com/rysfa/JSONDataExample/main/1.png",
+  "imageLink": "https://raw.githubusercontent.com/rysfa/JSONDataExample/main/Product_1.png",
   "productLink": "https://raw.githubusercontent.com/rysfa/JSONDataExample/main/Product_1.json",
   "details": "25G Cloud Gateway with 500+ UniFi device / 5,000+ client support, 12.5 Gbps IPS routing, and complete high availability.",
   "specs": [
