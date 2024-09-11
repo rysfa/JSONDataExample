@@ -1,0 +1,17 @@
+{
+  "id": 3,
+  "name": "Cloud Gateway Max",
+  "price": "322,00 €",
+  "imageLink": "https://raw.githubusercontent.com/rysfa/JSONDataExample/main/Product_3.png",
+  "productLink": "https://raw.githubusercontent.com/rysfa/JSONDataExample/main/Product_3.json",
+  "details": "Compact 2.5G Cloud Gateway with 30+ UniFi device / 300+ client support, 1.5 Gbps IPS routing, and selectable NVR storage.",
+  "specs": [
+    "Includes full UniFi application suite for device management",
+    "Manages 30+ UniFi devices and 300+ clients",
+    "1.5 Gbps routing with IDS/IPS",
+    "Multi-WAN load balancing",
+    "Selectable NVMe SSD storage up to 2 TB for NVR",
+    "0.96\" LCM status display",
+    "USB-C powered (adapter included)"
+  ]
+}
