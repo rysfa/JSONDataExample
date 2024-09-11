@@ -1,0 +1,20 @@
+{
+  "id": 2,
+  "name": "Dream Machine Pro Max",
+  "price": "553,00 €",
+  "imageLink": "https://raw.githubusercontent.com/rysfa/JSONDataExample/main/Product_2.png",
+  "productLink": "https://raw.githubusercontent.com/rysfa/JSONDataExample/main/Product_2.json",
+  "details": "10G Cloud Gateway with 200+ UniFi device / 2,000+ client support, 5 Gbps IPS routing, and redundant NVR storage.",
+  "specs": [
+    "Enhanced computing power and memory for 2x the UniFi device and client capacity of Dream Machine Pro/SE",
+    "Includes full UniFi application suite for device management",
+    "5 Gbps routing with IDS/IPS",
+    "(1) 10G SFP+, (8) GbE RJ45 LAN ports",
+    "(1) 10G SFP+, (1) 2.5 GbE RJ45 WAN ports",
+    "(2) 3.5\" NVR HDD bays with RAID data protection",
+    "Built-in 128 GB SSD for NVR detection recordings",
+    "UniFi Power Backup ready",
+    "1.3\" touchscreen"
+  ],
+  "additionalDetails": "*Pair with an official SFP+ Module or SFP+ to RJ45 Adapter for the best experience."
+}
